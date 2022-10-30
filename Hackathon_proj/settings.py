@@ -126,5 +126,6 @@ SOCIAL_AUTH_GITHUB_SCOPE = [
     'user',
     'read:org',
 ]
-
-AUTH_USER_MODEL = 'backend.User'
+SOCIAL_AUTH_JSONFIELD_ENABLED = True
+#AUTH_USER_MODEL = 'backend.User' #
+#SOCIAL_AUTH_USER_MODEL = '' #
