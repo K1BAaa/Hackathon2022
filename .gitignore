@@ -1,2 +1,7 @@
 .idea
 db.sqlite3
+chat/__pycache__/
+chat/migrations/
+form/__pycache__/
+form/migrations/
+__pycache__/
