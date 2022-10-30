@@ -5,3 +5,4 @@ chat/migrations/
 form/__pycache__/
 form/migrations/
 __pycache__/
+*.pyc
